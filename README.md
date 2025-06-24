@@ -213,7 +213,7 @@ Use the provided Postman collection (`wallet_system.postman_collection.json`) to
 
 - **Referral Codes**: Can be used multiple times, but only the latest generated code per user/admin is active
 - **Permissions**: All admin actions are controlled through the TransactionPolicy
-- **Notifications**: Uses Laravel's notification system with database and mail drivers
+- **Notifications**: Uses Laravel's notification system with database and mail drivers (current mail driver is log for local testing)
 - **API**: RESTful API with proper authentication and validation
 - **Web Interface**: Bootstrap-based responsive design for both admin and user dashboards
 
