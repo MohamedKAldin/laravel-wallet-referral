@@ -6,7 +6,7 @@ This project is a comprehensive wallet system with separate admin and user funct
 
 ### 🔗 Referral Code System
 - **Admin Referral Codes**: Admins can generate referral codes from their dashboard
-- **User Referral Codes**: Users can generate referral codes via API or web interface
+- **User Referral Codes**: Users can generate referral codes via API or web interface (Admin users only via web dashboard)
 - **Multiple Usage**: Referral codes can be used multiple times by different users
 - **Latest Code Only**: Only the most recently generated code for each user/admin is active
 - **Bonus System**: Both the referrer and new user receive 10 EGP when a referral code is used
